@@ -1,0 +1,10 @@
+numpy
+pandas
+tensorflow
+matplotlib
+Pillow
+requests
+torchvision
+datasets
+pyarrow
+opencv-python
