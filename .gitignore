@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Model artifacts
+*.h5
+*.keras
+logs/
+
+# Data
+*.csv
+*.tsv
+*.parquet
+*.arrow
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test outputs
+*.log
+
+# Ignore images (optional, comment out if you want to keep images in git)
+# *.jpg
+# *.jpeg
+# *.png
